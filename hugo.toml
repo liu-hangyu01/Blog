@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/' # 你的博客网址
+languageCode = "zh-cn"          # 站点语言
+title = "刘航宇的博客标题"           # 博客标题
+theme = "hello-friend-ng"       # 主题名称
+publishDir = "docs" 
